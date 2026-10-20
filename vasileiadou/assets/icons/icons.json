@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/logo-psi.svg"
+ },
+ "source_md5": "ca22d55ae3cf60f635ac3cc50c97ac20",
+ "version": "1d11ba01",
+ "tile": "#F7F1E6",
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "8e468dd7824399555b1dff6636dacb42"
+ ],
+ "made": "2026-10-14"
+}

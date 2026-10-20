@@ -1,0 +1,168 @@
+{
+  "slug": "vasileiadou",
+  "name": "Σοφία Βασιλειάδου",
+  "role": "Ψυχίατρος – Ψυχοθεραπεύτρια",
+  "role_short": "Ψυχίατρος · Ψυχοθεραπεύτρια",
+  "title": "Σοφία Βασιλειάδου | Ψυχίατρος – Ψυχοθεραπεύτρια στη Δροσιά",
+  "description": "Ψυχίατρος – ψυχοθεραπεύτρια Σοφία Βασιλειάδου, Λ. Μαραθώνος 10-12, Δροσιά. Η ιστοσελίδα ανανεώνεται· για ραντεβού καλέστε στο 210 813 6668 ή στο 690 624 5605.",
+  "og_image": "assets/img/og.jpg",
+  "logo_svg": "assets/img/logo-psi.svg",
+  "colors": {
+    "paper": "#F7F1E6",
+    "paper2": "#EFE3CC",
+    "paper3": "#FBF8F2",
+    "ink": "#2A1E19",
+    "ink2": "#5E4D43",
+    "brand": "#55392F",
+    "acc": "#8E5228",
+    "acc2": "#B9773F",
+    "glow": "#E4B865",
+    "dark": "#2B1F1A",
+    "dark2": "#221813",
+    "dust": "#F0C677"
+  },
+  "fonts": {
+    "serif": "EB Garamond",
+    "sans": "Commissioner",
+    "faces": [
+      {
+        "family": "EB Garamond",
+        "file": "assets/fonts/eb-garamond-greek-500-normal.woff2",
+        "weight": 500,
+        "range": "U+0370-03FF,U+1F00-1FFF",
+        "preload": true
+      },
+      {
+        "family": "EB Garamond",
+        "file": "assets/fonts/eb-garamond-latin-500-normal.woff2",
+        "weight": 500,
+        "range": "U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2190-2199,U+2212,U+2215,U+FEFF,U+FFFD"
+      },
+      {
+        "family": "EB Garamond",
+        "file": "assets/fonts/eb-garamond-greek-500-italic.woff2",
+        "weight": 500,
+        "style": "italic",
+        "range": "U+0370-03FF,U+1F00-1FFF"
+      },
+      {
+        "family": "EB Garamond",
+        "file": "assets/fonts/eb-garamond-latin-500-italic.woff2",
+        "weight": 500,
+        "style": "italic",
+        "range": "U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2190-2199,U+2212,U+2215,U+FEFF,U+FFFD"
+      },
+      {
+        "family": "Commissioner",
+        "file": "assets/fonts/commissioner-greek-400-normal.woff2",
+        "weight": 400,
+        "range": "U+0370-03FF,U+1F00-1FFF",
+        "preload": true
+      },
+      {
+        "family": "Commissioner",
+        "file": "assets/fonts/commissioner-latin-400-normal.woff2",
+        "weight": 400,
+        "range": "U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2190-2199,U+2212,U+2215,U+FEFF,U+FFFD"
+      },
+      {
+        "family": "Commissioner",
+        "file": "assets/fonts/commissioner-greek-600-normal.woff2",
+        "weight": 600,
+        "range": "U+0370-03FF,U+1F00-1FFF"
+      },
+      {
+        "family": "Commissioner",
+        "file": "assets/fonts/commissioner-latin-600-normal.woff2",
+        "weight": 600,
+        "range": "U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2190-2199,U+2212,U+2215,U+FEFF,U+FFFD"
+      }
+    ]
+  },
+  "hero": {
+    "desktop": "assets/img/iatreio-drosia-hero.webp",
+    "mobile": "assets/img/iatreio-drosia-hero-m.webp",
+    "w": 2400,
+    "h": 1600,
+    "position": "50% 50%",
+    "position_mobile": "42% 50%",
+    "beam_x": "4vw",
+    "alt": "Το γραφείο του ιατρείου της Σοφίας Βασιλειάδου στη Δροσιά, με φυσικό φως από το παράθυρο"
+  },
+  "status": "Το ιατρείο λειτουργεί κανονικά",
+  "eyebrow": "Ψυχίατρος – Ψυχοθεραπεύτρια · Δροσιά",
+  "headline": "Η ιστοσελίδα μας",
+  "headline_em": "ανανεώνεται",
+  "lede": "Ετοιμάζουμε μια νέα, ανανεωμένη ιστοσελίδα, η οποία θα είναι διαθέσιμη σε λίγες ημέρες. Μέχρι τότε, το ιατρείο λειτουργεί κανονικά και είμαστε στη διάθεσή σας για ραντεβού και κάθε πληροφορία.",
+  "cta_primary": "Κλείστε ραντεβού",
+  "cta_secondary": "Στοιχεία επικοινωνίας",
+  "eta": "Η νέα ιστοσελίδα έρχεται σε λίγες ημέρες",
+  "rating": {
+    "value": "4,9",
+    "url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x14a19e07680d492b:0x270d270e8b4c47e4!8m2!3d38.1193314!4d23.8578209!9m1!1b1"
+  },
+  "band_label": "Υπηρεσίες του ιατρείου",
+  "services": [
+    "Ψυχιατρική αξιολόγηση",
+    "Ψυχοθεραπεία",
+    "EMDR",
+    "Κλινική ύπνωση",
+    "Συμβουλευτική"
+  ],
+  "contact_kicker": "Επικοινωνία",
+  "contact_title": "Κλείστε *ραντεβού*",
+  "contact_text": "Για ραντεβού ή οποιαδήποτε πληροφορία, μπορείτε να επικοινωνήσετε μαζί μας τηλεφωνικά ή με email. Οι συνεδρίες γίνονται κατόπιν ραντεβού, στο ιατρείο ή online.",
+  "contacts": [
+    {
+      "type": "phone",
+      "label": "Σταθερό τηλέφωνο",
+      "value": "210 813 6668",
+      "href": "tel:+302108136668"
+    },
+    {
+      "type": "mobile",
+      "label": "Κινητό τηλέφωνο",
+      "value": "690 624 5605",
+      "href": "tel:+306906245605"
+    },
+    {
+      "type": "email",
+      "label": "Email",
+      "value": "sofia.vassiliadou@gmail.com",
+      "href": "mailto:sofia.vassiliadou@gmail.com"
+    },
+    {
+      "type": "address",
+      "label": "Διεύθυνση",
+      "value": "Λ. Μαραθώνος 10-12, Δροσιά",
+      "href": "https://www.google.com/maps/place/data=!4m6!3m5!1s0x14a19e07680d492b:0x270d270e8b4c47e4!8m2!3d38.1193314!4d23.8578209"
+    }
+  ],
+  "note": "*Δέχεται κατόπιν ραντεβού* · στο ιατρείο ή online",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    "name": "Σοφία Βασιλειάδου — Ψυχίατρος, Ψυχοθεραπεύτρια",
+    "alternateName": "Sofia Vasileiadou — Psychiatrist, Psychotherapist",
+    "description": "Ψυχίατρος – ψυχοθεραπεύτρια στη Δροσιά: ψυχιατρική αξιολόγηση, ψυχοθεραπεία, EMDR, κλινική ύπνωση και συμβουλευτική, κατόπιν ραντεβού ή online.",
+    "image": "assets/img/og.jpg",
+    "telephone": "+30 210 813 6668",
+    "email": "sofia.vassiliadou@gmail.com",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Λεωφ. Μαραθώνος 10-12",
+      "addressLocality": "Δροσιά",
+      "postalCode": "14572",
+      "addressRegion": "Αττική",
+      "addressCountry": "GR"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 38.1193314,
+      "longitude": 23.8578209
+    },
+    "medicalSpecialty": "Psychiatric",
+    "hasMap": "https://www.google.com/maps/place/data=!4m6!3m5!1s0x14a19e07680d492b:0x270d270e8b4c47e4!8m2!3d38.1193314!4d23.8578209"
+  },
+  "badge": "ΝΕΑ ΙΣΤΟΣΕΛΙΔΑ · ΣΥΝΤΟΜΑ · "
+}

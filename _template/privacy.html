@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="el">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light only">
+<title>Απόρρητο &amp; cookies — {{NAME}}</title>
+<meta name="robots" content="noindex,follow">
+{{ICONS}}
+<style>
+{{FONTFACES}}
+:root{color-scheme:light only}
+body{margin:0;background:{{C_PAPER}};color:{{C_INK}};font:400 17px/1.7 '{{F_SANS}}',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+main{max-width:760px;margin:0 auto;padding:64px 22px 90px}
+a{color:{{C_ACC}}}
+.back{display:inline-flex;gap:8px;align-items:center;font-weight:600;text-decoration:none;font-size:15px}
+h1{font:500 clamp(36px,6vw,54px)/1.1 '{{F_SERIF}}',Georgia,serif;color:{{C_DARK}};margin:28px 0 8px}
+h2{font:500 26px/1.2 '{{F_SERIF}}',Georgia,serif;color:{{C_DARK}};margin:38px 0 6px}
+p,li{color:{{C_INK2}}}
+footer{margin-top:56px;padding-top:22px;border-top:1px solid rgba(0,0,0,.1);font-size:14px;color:{{C_INK2}}}
+</style>
+</head>
+<body>
+<main>
+  <a class="back" href="./">← Επιστροφή</a>
+  <h1>Απόρρητο &amp; cookies</h1>
+  <p>Τελευταία ενημέρωση: {{UPDATED}}</p>
+
+  <h2>Ποιος είναι υπεύθυνος</h2>
+  <p>{{NAME}}, {{ROLE}}, {{ADDRESS_TEXT}}. Επικοινωνία: <a href="{{EMAIL_HREF}}">{{EMAIL_TXT}}</a> · <a href="{{PRIMARY_HREF}}">{{PRIMARY_TXT}}</a>.</p>
+
+  <h2>Cookies και παρακολούθηση</h2>
+  <p>Η σελίδα αυτή <b>δεν χρησιμοποιεί cookies</b>, εργαλεία στατιστικών ή διαφήμισης και δεν φορτώνει τίποτα από τρίτες εταιρείες. Οι γραμματοσειρές και οι εικόνες φιλοξενούνται μαζί με τη σελίδα.</p>
+  <p>Για να μην εμφανίζεται ξανά η εισαγωγική κίνηση στην ίδια επίσκεψη, ο φυλλομετρητής σας κρατά προσωρινά μία ένδειξη (sessionStorage), η οποία διαγράφεται όταν κλείσετε την καρτέλα και δεν περιέχει προσωπικά δεδομένα.</p>
+
+  <h2>Τεχνικά στοιχεία επίσκεψης</h2>
+  <p>Όπως κάθε ιστοσελίδα, ο πάροχος φιλοξενίας (hosting) καταγράφει για λόγους ασφάλειας και σωστής λειτουργίας βασικά τεχνικά στοιχεία των αιτημάτων (π.χ. διεύθυνση IP, ημερομηνία και ώρα, τύπο φυλλομετρητή). Τα στοιχεία αυτά δεν χρησιμοποιούνται για την αναγνώρισή σας.</p>
+
+  <h2>Σύνδεσμοι προς άλλες υπηρεσίες</h2>
+  <p>Αν πατήσετε τον σύνδεσμο για τον χάρτη ή τις κριτικές, μεταφέρεστε στη σελίδα της Google, όπου ισχύει η δική της πολιτική απορρήτου.</p>
+
+  <h2>Τα δικαιώματά σας</h2>
+  <p>Σύμφωνα με τον Γενικό Κανονισμό Προστασίας Δεδομένων (ΓΚΠΔ), έχετε δικαίωμα πρόσβασης, διόρθωσης και διαγραφής των δεδομένων σας, καθώς και δικαίωμα καταγγελίας στην Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα (<a href="https://www.dpa.gr" target="_blank" rel="noopener">www.dpa.gr</a>). Για οποιοδήποτε θέμα, επικοινωνήστε μαζί μας στα παραπάνω στοιχεία.</p>
+
+  <footer>© {{YEAR}} {{NAME}} · Σχεδιασμός: <a href="https://advonmedia.com" target="_blank" rel="noopener">Advon Media</a></footer>
+</main>
+</body>
+</html>
