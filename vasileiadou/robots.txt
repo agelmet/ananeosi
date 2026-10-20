@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sofiavassiliadou-psyxiatros.gr/sitemap.xml
